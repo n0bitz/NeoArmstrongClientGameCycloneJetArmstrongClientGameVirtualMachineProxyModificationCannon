@@ -1,0 +1,4 @@
+cmake_minimum_required(VERSION 3.12)
+project(NeoArmstrongClientGameCycloneJetArmstrongClientGameVirtualMachineProxyModificationCannon)
+add_executable(interpreter src/interpreter.cc)
+set_property(TARGET interpreter PROPERTY CXX_STANDARD 20)
